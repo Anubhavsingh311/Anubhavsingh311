@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Anubhavsingh311">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=986&text=Hey%20there!%20I'm%20Anubhav%20Singh" alt="Hey there! I&#39;m Anubhav Singh" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=986&text=Hey%20there!%20I'm%20Anubhav%20Singh" alt="Hey there! I&#39;m Anubhav Singh ✌️" />
   </a>
 </p>
 
