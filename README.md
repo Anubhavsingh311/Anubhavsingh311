@@ -65,7 +65,3 @@ I'm a Computer Science student passionate about Artificial Intelligence and Mach
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Anubhavsingh311">Anubhavsingh311</a></i></p>
-
