@@ -57,12 +57,6 @@ I'm a Computer Science student passionate about Artificial Intelligence and Mach
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Anubhavsingh311&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhavsingh311&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 ### 💭 Dev Quote
 
 <p align="center">
